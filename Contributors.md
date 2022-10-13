@@ -3549,5 +3549,6 @@
 - [Anirudha-CA](https://github.com/Anirudha-CA)
 - [Miracle Ogunleye](https://github.com/mimiicodes)
 - [Bernard Sapida] (https://github.com/BernardSapida)
+- [Dhathresh](https://github.com/dhathresh)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
